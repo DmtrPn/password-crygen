@@ -1,0 +1,14 @@
+{
+  "name": "password-crygen",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:DmtrPn/password-crygen.git",
+  "author": "Dima Panov <rpsdpano@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "12.12.6",
+    "typescript": "4.6.2"
+  }
+}
