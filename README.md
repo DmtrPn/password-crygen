@@ -1,6 +1,10 @@
 # password-crypto
 
 
+#### Install
+
+`yarn add password-crygen`
+
 #### Generate password hash
 
 ```typescript
