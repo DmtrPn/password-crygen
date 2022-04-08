@@ -8,7 +8,7 @@
 #### Generate password hash
 
 ```typescript
-import { generatePasswordHash } from 'password-crypto';
+import { generatePasswordHash } from 'password-crygen';
 
 const password = '123qwe';
 const passwordHash = generatePasswordHash(password);
@@ -17,7 +17,7 @@ const passwordHash = generatePasswordHash(password);
 #### Check password
 
 ```typescript
-import { checkPassword } from 'password-crypto';
+import { checkPassword } from 'password-crygen';
 
 const passwordToChech = '123qwe';
 const passwordHash = 'hex...';
